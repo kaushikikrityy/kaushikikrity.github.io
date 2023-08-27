@@ -45,7 +45,7 @@ Businesses may now compete in markets they previously would not have had access 
 ##### 5. Enhanced security due to the frequent peer evaluation of open-source software
 >One of the main advantages of open-source software is enhanced security. Peer review is possible because the source code is open to the public. This implies that any possible defects or security holes can be rapidly found and fixed before they cause a problem. Users can offer advice and suggestions on how to use the software safely and securely on a platform provided by the open-source community. 
 
-![Open Source developmeny](/assets/images/open-source-cycle.jpg)
+            ![Open Source developmeny](/assets/images/benefits-of-foss.jpeg)
 
 ## Why contributing to Open Source is Important for Software Developers?
 
