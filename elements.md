@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: Open Source
 image: assets/images/open-source.jpg
 nav-menu: true
 ---
+
+![open](assets/images/open-source.jpg)
 
 ## What is Open Source? 
 
