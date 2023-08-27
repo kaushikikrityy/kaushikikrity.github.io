@@ -54,3 +54,18 @@ Well, it makes no difference if you are new to software development or have been
 "My first exposure to contributing to open source as a software developer was during my first year of college.I was unable to comprehend anything. I questioned myself, *"Why am I doing this?"* However, after doing some research, I discovered that this emerging technology can help me in every aspect. That I have tried to include in this blog." 
 
 ### <u>Benefits of Contributing to Open Source </u>
+
+##### 1. Learn about New Technologies, Tools, and Skills
+>Learning about new technologies and tools is made much easier by participating in open source projects. For instance, you might learn about a brand-new programming language or framework that you were unaware of. You might even discover a completely other method of operation that modifies the way you think about programming!
+
+##### 2. Increase community and peer recognition
+>You may network with other developers by participating in open source projects, which is a major advantage. This implies that you'll socialize, make friends, work on projects with other developers, find mentors, and have the chance to learn from one another.
+Many people appreciate contributing because they feel like they are giving back to the community in addition to networking and making friends. After all, the programming community is very dependent on its contributors.
+
+##### 3. Learn to Consider Other Developers' Points of View
+>One of the finest ways to learn how to approach a subject from different perspectives is to contribute to open source projects.
+Working on an open source project means you'll probably be collaborating with other programmers who each have their own distinctive ideas. This might help you view issues from a completely new perspective.
+
+The benefits of contributing to Open-Source is uncountable. So, **START CONTRIBUTING TO OPEN SOURCE**. I will be including **"How to contribute to Open Source in next blog"**. 
+
+Thank you. 
