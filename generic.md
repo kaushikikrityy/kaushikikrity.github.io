@@ -45,7 +45,9 @@ Businesses may now compete in markets they previously would not have had access 
 ##### 5. Enhanced security due to the frequent peer evaluation of open-source software
 >One of the main advantages of open-source software is enhanced security. Peer review is possible because the source code is open to the public. This implies that any possible defects or security holes can be rapidly found and fixed before they cause a problem. Users can offer advice and suggestions on how to use the software safely and securely on a platform provided by the open-source community. 
 
-            ![Open Source developmeny](/assets/images/benefits-of-foss.jpeg)
+<div align="center">
+    <img src="/assets/images/benefits-of-foss.jpeg" width="200" height="90">
+</div>           
 
 ## Why contributing to Open Source is Important for Software Developers?
 
@@ -68,7 +70,9 @@ Many people appreciate contributing because they feel like they are giving back 
 >One of the finest ways to learn how to approach a subject from different perspectives is to contribute to open source projects.
 Working on an open source project means you'll probably be collaborating with other programmers who each have their own distinctive ideas. This might help you view issues from a completely new perspective.
 
-![Open Source Beneefits](/assets/images/open-source-development.webp)
+<div align="center">
+    <img src="/assets/images/open-source-development.webp" width="200" height="90">
+</div>
 
 The benefits of contributing to Open-Source is uncountable. So, **START CONTRIBUTING TO OPEN SOURCE**. I will be including **"How to contribute to Open Source in next blog"**. 
 
